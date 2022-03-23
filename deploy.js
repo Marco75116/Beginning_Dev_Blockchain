@@ -3,7 +3,8 @@ const Web3 = require('web3');
 const {abi,evm} = require('./compile');
 
 const provider = new HDWaletteProvider(
-    'put motion math warfare furnace verify tuition nut annual punch cost loud',
+    'put motion math warfare furnace verify tuition nut annual punch cost loud', 
+//     ce portefeuille ne contient rien 
     'https://rinkeby.infura.io/v3/00e46f3ce2d8433daecdd8006aaf1c95',
 );
 
